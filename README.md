@@ -1,7 +1,7 @@
 # Banking Customer Analytics — SQL Server + Python EDA + Power BI Dashboard
 
 <p align="center">
-  <img src="BANKING.png" alt="Project logo" width="180"/>
+  <img src="BANKLOGO.png" alt="Project logo" width="180"/>
 </p>
 
 End-to-end analytics mini-project where I:
