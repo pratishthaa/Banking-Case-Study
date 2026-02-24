@@ -1,5 +1,9 @@
 # Banking Customer Analytics — SQL Server + Python EDA + Power BI Dashboard
 
+<p align="center">
+  <img src="BANKING.png" alt="Project logo" width="180"/>
+</p>
+
 End-to-end analytics mini-project where I:
 1) connected a **SQL Server** database (via SSMS) to **Power BI** to build an interactive dashboard, and  
 2) performed **Exploratory Data Analysis (EDA)** in **Python (Jupyter Notebook)** after connecting to the same database.
