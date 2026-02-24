@@ -17,8 +17,6 @@ End-to-end analytics mini-project where I:
 - **`Banking.csv`**  
   Extract of the customer dataset used for EDA (mirrors the SQL Server table used in the dashboard).
 
-> Note: If you are sharing this repo publicly, consider removing the raw CSV or replacing it with an anonymized sample + schema.
-
 ---
 
 ## Tools & Tech
